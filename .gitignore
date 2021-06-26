@@ -90,3 +90,6 @@ typings/
 # Gatsby directories
 .cache
 public
+
+# Mac OS folder information file
+.DS_Store
